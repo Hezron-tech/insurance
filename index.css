@@ -248,3 +248,78 @@ label{
     margin-top: 5%;
     ;
 }
+
+.price-pricing{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin-top: 30px;
+}
+
+.dollar{
+    display: flex;
+    justify-content: center;
+   padding-top: 10%;
+}
+.free{
+    border: 2px solid green;
+    
+    width: 250px;
+    margin-top: 20px;
+    border-radius: 10px;
+    height: 560px;
+    /* width: 220px; */
+   
+}
+.dollar{
+    color: #2BA6F0;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+.standard{
+    width: 250px;
+    background-color: #252B42;
+    color: white;
+    border-radius: 10px;
+    
+    border: 2px solid rgb(123, 190, 192);
+    
+}
+.standard h1{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    
+}
+
+
+.div{
+    height: 100px;
+}
+
+.free h1{
+    padding-top: 20px;
+    padding-bottom: 20px;   
+}
+
+.try{
+    color: white;
+    background-color:#23A6F0;
+    height: 43px;
+    border-radius: 6px ;
+    font-size: 15px;
+    width: 200px;
+
+
+}
+
+.standard .trying{
+    color: white;
+    background-color:#23A6F0;
+    height: 43px;
+    border-radius: 6px ;
+    font-size: 15px;
+    width: 200px; 
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+}
